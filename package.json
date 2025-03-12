@@ -1,0 +1,12 @@
+{
+  "name": "flowchart-builder",
+  "version": "1.0.0",
+  "description": "🚀 A full-stack Flowchart Builder using React.js, Konva.js, Node.js, and MongoDB. Create, edit, and save interactive flowcharts with draggable shapes and connectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
